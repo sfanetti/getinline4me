@@ -6,7 +6,6 @@
       "express": "2.5.8"
     },
     "devDependencies": {
-      "node-idocs": "latest",
-      "express-api-docs": "latest"
+
     }
 }
