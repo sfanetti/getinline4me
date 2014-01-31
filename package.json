@@ -1,5 +1,5 @@
 {
-    "name": "myapplication", 
+    "name": "getinline4me", 
     "version": "0.0.1",
     "private": true,
     "dependencies": {
@@ -8,7 +8,6 @@
     "devDependencies": {
       "jake-utils": ">= 0.0.13",
       "node-idocs": "latest",
-      "express-api-docs": "latest",
-      "mocha": "latest"
+      "express-api-docs": "latest"
     }
 }
